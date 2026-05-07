@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **[Proyek kamu saat ini]**
+- 🔭 I’m currently working on **BankSampah Banjarku**
 - 🌱 I’m currently learning **Laravel, Flutter, & IoT with ESP32**
 - 👯 I’m looking to collaborate on **open source projects & IoT innovations**
 - 💬 Ask me about **Laravel, Flutter, ESP32, Web development**
